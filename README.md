@@ -40,6 +40,6 @@
 ![스크린샷 2023-03-03 오후 1 41 44](https://user-images.githubusercontent.com/111184537/222634593-54098dcf-548b-45e1-bd83-1175c8f9e246.png)
 
 
+API 명세서
 
-
-
+https://www.notion.so/406df6cc9a4e4bc8827dffca857eb36f?v=d053b6a829134bc1a50dbd3f413c12b1
